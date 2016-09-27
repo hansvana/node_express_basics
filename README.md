@@ -7,6 +7,6 @@ This will get you up and running with a very basic Node server.
  * Run `npm install` in the project directory to install Express
  
 ## Getting Started
- * Run `node server.js` to start node with ##server.js## attached
- * Open ##client/index.html## and see the glorious Hello World!
+ * Run `node server.js` to start node with **server.js** attached
+ * Open **client/index.html** and see the glorious Hello World!
  * Pressing Ctrl + C closes node 
